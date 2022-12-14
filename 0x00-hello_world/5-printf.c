@@ -1,7 +1,7 @@
 #include <stdio.h>
+
 /**
- *
- * main - Entry
+ * main -prints rhe phrase wit proper grammar,
  * Return: Always 0
  */
 int main(void)
